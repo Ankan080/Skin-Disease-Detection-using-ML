@@ -466,3 +466,13 @@ For questions or issues:
 **Last Updated:** January 2024  
 **Python:** 3.8+  
 **Status:** Active Development
+
+---
+
+👨‍💻 Author
+
+Ankan Majumdar 
+B.Tech IT | Narula Institute of Technology, West Bengal, India
+📧 [ankanm080@gmail.com]
+🔗 [https://github.com/Ankan080]
+💼 [https://www.linkedin.com/in/ankan080]
